@@ -1,5 +1,7 @@
 # 150-Bed Hospital Construction Scheduling & Project Control
 
+[![Microsoft Project](https://img.shields.io/badge/Microsoft_Project-098522?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/project/project-management-software)
+
 ## About The Project
 This repository contains the comprehensive baseline and recovery schedule for a 150-bed hospital construction project. The project involved resuming work on a partially completed site, requiring a detailed assessment of the current progress (with varying completion percentages across different tasks, such as MEP and wiring) and restructuring the remaining work.
 
