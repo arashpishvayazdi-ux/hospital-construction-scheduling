@@ -1,6 +1,6 @@
 # 150-Bed Hospital Construction Scheduling & Project Control
 
-##About The Project
+## About The Project
 This repository contains the comprehensive baseline and recovery schedule for a 150-bed hospital construction project. The project involved resuming work on a partially completed site, requiring a detailed assessment of the current progress (with varying completion percentages across different tasks, such as MEP and wiring) and restructuring the remaining work.
 
 To accelerate the operational handover to the client, the project delivery was strategically divided into **3 distinct phases**. 
